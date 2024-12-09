@@ -5,5 +5,4 @@ inicio = 1
 final = 100 
 for numero in range (inicio, final):
     if numero %2 == 0:
-        print (numero)
-    
+        print (numero)   

@@ -5,4 +5,3 @@ numero = 7
 for i in range (1,11):
     producto = numero * i
     print (f"{numero} * {i} = {producto}")
-
